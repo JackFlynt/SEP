@@ -1,0 +1,6 @@
+src/boost
+.vs
+*/.vs
+.vscode
+**/obj
+**.dll
